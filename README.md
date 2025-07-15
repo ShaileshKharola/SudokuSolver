@@ -2,20 +2,31 @@
 Java GUI Sudoku solver using backtracking for efficient puzzle solving. Input your board and get instant solutions!
 
 # Prerequisites
+
 -Install Java JDK (version 8 or higher)
+
 -Install an IDE (Eclipse, IntelliJ IDEA, or NetBeans)
 
 # Steps to Set Up the Project
+
 Option 1: Using an IDE
+
 -Clone or download the project:
+
 #            or
 # bash
 git clone https://github.com/ShaileshKharola/SudokuSolver.git
+
 # Or  --download the ZIP file and extract it--
+
 # project folder name as SudokuSolver
+
 -->Open the project in your IDE:
+
 -In IntelliJ: File → Open → Select project folder
+
 -In NetBeans: File → Open Project → Select project folder
+
 -In VSCode: File → Open Project → Select project folder
 
 Run the project:
